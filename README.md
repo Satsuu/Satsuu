@@ -8,7 +8,7 @@ Studying MERN stack
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [jameslumawag1@gmail.com](mailto:jameslumawag1@gmail.com)
-* 🧠  I'm learning I'm currently learning MERN Stack
+* 🧠  I'm currently learning MERN Stack
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Gaining more experience and knowledge in programming world
 
