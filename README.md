@@ -12,6 +12,9 @@ Studying MERN stack
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Gaining more experience and knowledge in programming world
 
+<a href="https://www.github.com/Satsuu" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Satsuu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 
@@ -48,4 +51,4 @@ Studying MERN stack
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Satsuu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Satsuu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Satsuu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Satsuu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
